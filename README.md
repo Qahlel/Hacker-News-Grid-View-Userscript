@@ -6,6 +6,12 @@ Inspired by [Show HN: A native macOS client for Hacker News, built with SwiftUI]
 
 ---
 
+## Screenshot
+
+![HN Grid View](https://raw.githubusercontent.com/Qahlel/Hacker-News-Grid-View-Userscript/main/firefox-2026-0222-1158-48.jpg)
+
+---
+
 ## Features
 
 - **Card grid layout** — replaces the default list with a responsive grid (auto-fills based on viewport width)
@@ -23,7 +29,7 @@ Inspired by [Show HN: A native macOS client for Hacker News, built with SwiftUI]
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Edge/Firefox/Safari) or [Greasemonkey](https://www.greasespot.net/) (Firefox)
-2. Click **[Install Script](./hn-grid-view.user.js)** — your userscript manager will prompt for confirmation
+2. Click **[Install Script](./Hacker-News-Grid-View-Userscript-7.0.0.js)** — your userscript manager will prompt for confirmation
 3. Navigate to [news.ycombinator.com](https://news.ycombinator.com)
 
 ---
